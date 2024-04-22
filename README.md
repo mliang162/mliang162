@@ -4,10 +4,6 @@
 
 I'm a software developer, eager to learn about new technologies and experiment with said technologies with experiments and projects
 
-## 📈 My GitHub Stats:
-
-![Your GitHub stats](https://repo-stats-7j3e.vercel.app/api?username=ryanisho&show_icons=true&theme=tokyonight)
-
 
 ## 🔧 Technologies & Tools:
 
@@ -20,6 +16,7 @@ I'm a software developer, eager to learn about new technologies and experiment w
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
 <br />
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)

@@ -2,7 +2,7 @@
 
 ## 🌱 About Me:
 
-I'm a software developer, eager to learn about new technologies and experiment with said technologies with experiments and projects
+I'm a software developer, eager to learn about new technologies.
 
 
 ## 🔧 Technologies & Tools:
